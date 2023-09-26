@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('titulo')
-    Modifica
+    Editar Perfil
 @endsection
 
 @section('contenido')
